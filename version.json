@@ -1,6 +1,6 @@
 {
-  "version_code": 255,
-  "version_name": "0.0.55",
+  "version_code": 261,
+  "version_name": "0.0.61",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.55 — herrero de pago, botín exclusivo, mazo inicial 7 cartas, eventos, caminos recortados y números de daño nuevos."
+  "notes": "CardStrike 0.0.61 — sprites de Tahúr y Guerrero recortados, cartas full art sin marco navy ni etiqueta Nv.1."
 }
