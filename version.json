@@ -1,6 +1,6 @@
 {
-  "version_code": 267,
-  "version_name": "0.0.67",
+  "version_code": 268,
+  "version_name": "0.0.68",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.67 — herrero se puede saltar, vida máxima ya no se encoge tras el combate, arte de fuego/veneno y golpes múltiples del Tahúr."
+  "notes": "CardStrike 0.0.68 — herrero al estilo tienda con iconos; mejoras en parrilla de todo el mazo (herrero, tienda, hoguera y botín)."
 }
