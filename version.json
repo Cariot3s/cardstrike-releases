@@ -1,6 +1,6 @@
 {
-  "version_code": 263,
-  "version_name": "0.0.63",
+  "version_code": 264,
+  "version_name": "0.0.64",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.63 — nombre, coste y efecto visibles en las cartas de la mano."
+  "notes": "CardStrike 0.0.64 — menús, HUDs y combate rediseñados: FIN TURNO compacto, cartas se juegan desde la ficha o arrastrando, campamento con retrato y banner de expedición."
 }
