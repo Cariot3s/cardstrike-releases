@@ -1,6 +1,6 @@
 {
-  "version_code": 239,
-  "version_name": "0.0.39",
+  "version_code": 248,
+  "version_name": "0.0.48",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.39 — build 239."
+  "notes": "Primera impresión Tahúr: 29 cartas, sprites animados, inspección de carta y estados en combate. Run vertical de 3 mundos con fondos claros. Enemigos y balance aún en progreso."
 }
