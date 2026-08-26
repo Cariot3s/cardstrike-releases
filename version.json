@@ -1,6 +1,6 @@
 {
-  "version_code": 249,
-  "version_name": "0.0.49",
+  "version_code": 250,
+  "version_name": "0.0.50",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "Fondos de mundo aleatorios por run: celestial, infernal y cósmico se reparten al azar entre los 3 mundos (mismo fondo todo el acto, incluido el jefe). Nexus reservado para run extra futura."
+  "notes": "Combate mejorado: cartas más pequeñas en abanico sin orbe de maná interior, arte Tahúr recortado a marco 400×580, animaciones colgadas corregidas, globos de daño y FX de impacto afinados."
 }
