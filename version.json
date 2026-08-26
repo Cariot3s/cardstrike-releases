@@ -1,6 +1,6 @@
 {
-  "version_code": 251,
-  "version_name": "0.0.51",
+  "version_code": 252,
+  "version_name": "0.0.52",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "Cartas sin recuadro de color (solo sprite), mano separada y visible, mapa de run centrado y legible, barra de sistema oculta."
+  "notes": "Mapa con iconos cartoon por nodo, caminos en cinta dorada, y el fondo del mundo también en combate (rota al cambiar de mundo)."
 }
