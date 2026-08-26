@@ -1,6 +1,6 @@
 {
-  "version_code": 268,
-  "version_name": "0.0.68",
+  "version_code": 269,
+  "version_name": "0.0.69",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.68 — herrero al estilo tienda con iconos; mejoras en parrilla de todo el mazo (herrero, tienda, hoguera y botín)."
+  "notes": "CardStrike 0.0.69 — enemigos de bioma sin fondo (idle/ataque/golpe), 4 actos y cartas Tahúr full-art."
 }
