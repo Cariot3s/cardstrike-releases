@@ -1,6 +1,6 @@
 {
-  "version_code": 248,
-  "version_name": "0.0.48",
+  "version_code": 249,
+  "version_name": "0.0.49",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "Primera impresión Tahúr: 29 cartas, sprites animados, inspección de carta y estados en combate. Run vertical de 3 mundos con fondos claros. Enemigos y balance aún en progreso."
+  "notes": "Fondos de mundo aleatorios por run: celestial, infernal y cósmico se reparten al azar entre los 3 mundos (mismo fondo todo el acto, incluido el jefe). Nexus reservado para run extra futura."
 }
