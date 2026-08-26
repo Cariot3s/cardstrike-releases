@@ -1,6 +1,6 @@
 {
-  "version_code": 250,
-  "version_name": "0.0.50",
+  "version_code": 251,
+  "version_name": "0.0.51",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "Combate mejorado: cartas más pequeñas en abanico sin orbe de maná interior, arte Tahúr recortado a marco 400×580, animaciones colgadas corregidas, globos de daño y FX de impacto afinados."
+  "notes": "Cartas sin recuadro de color (solo sprite), mano separada y visible, mapa de run centrado y legible, barra de sistema oculta."
 }
