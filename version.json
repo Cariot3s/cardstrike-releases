@@ -1,6 +1,6 @@
 {
-  "version_code": 253,
-  "version_name": "0.0.53",
+  "version_code": 254,
+  "version_name": "0.0.54",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.53 — stickers cartoon en cada nodo del mapa, cintas de ruta oro y el fondo del mundo también en batalla."
+  "notes": "CardStrike 0.0.54 — leyenda fija de iconos del mapa y marca AQUÍ en tu nodo actual."
 }
