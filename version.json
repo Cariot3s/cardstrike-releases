@@ -1,6 +1,6 @@
 {
-  "version_code": 266,
-  "version_name": "0.0.66",
+  "version_code": 267,
+  "version_name": "0.0.67",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.66 — Tahúr 75 HP, un elite en acto 1, tienda en parrilla, arrastrar cartas al campo, HUD de mazo/mano/descarte y FIN TURNO compacto."
+  "notes": "CardStrike 0.0.67 — herrero se puede saltar, vida máxima ya no se encoge tras el combate, arte de fuego/veneno y golpes múltiples del Tahúr."
 }
