@@ -1,6 +1,6 @@
 {
-  "version_code": 275,
-  "version_name": "0.0.75",
+  "version_code": 276,
+  "version_name": "0.0.76",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.75 — overlay de estados, reliquias 31-40 (STS), fuerza que baja cada turno, y APK ~23MB (antes ~84MB)."
+  "notes": "CardStrike 0.0.76 — Intención por enemigo: espada + daño, reloj de arena o escudo, encima de los ailments."
 }
