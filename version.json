@@ -1,6 +1,6 @@
 {
-  "version_code": 271,
-  "version_name": "0.0.71",
+  "version_code": 275,
+  "version_name": "0.0.75",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.71 — 30 reliquias de expedición (un efecto cada una), tesoro/élite/jefe/tienda, sprites compactos. Incluye arte de Vikingo, Mago y Alquimista."
+  "notes": "CardStrike 0.0.75 — overlay de estados, reliquias 31-40 (STS), fuerza que baja cada turno, y APK ~23MB (antes ~84MB)."
 }
