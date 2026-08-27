@@ -1,6 +1,6 @@
 {
-  "version_code": 269,
-  "version_name": "0.0.69",
+  "version_code": 271,
+  "version_name": "0.0.71",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.69 — enemigos de bioma sin fondo (idle/ataque/golpe), 4 actos y cartas Tahúr full-art."
+  "notes": "CardStrike 0.0.71 — 30 reliquias de expedición (un efecto cada una), tesoro/élite/jefe/tienda, sprites compactos. Incluye arte de Vikingo, Mago y Alquimista."
 }
