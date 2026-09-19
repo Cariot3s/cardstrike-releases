@@ -1,6 +1,6 @@
 {
-  "version_code": 277,
-  "version_name": "0.0.77",
+  "version_code": 278,
+  "version_name": "0.0.78",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.77 — Balance mixto de HP, daño y mejoras de cartas. Iconos de ailments y reliquias más legibles en el HUD. Ceguera, debilidad y aturdimiento ahora hacen lo que prometen."
+  "notes": "CardStrike 0.0.78 — sprites de héroes, 116 cartas, HUD/UI tipo StS, pantalla de entrada, balance e iconos."
 }
