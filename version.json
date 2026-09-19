@@ -1,6 +1,6 @@
 {
-  "version_code": 276,
-  "version_name": "0.0.76",
+  "version_code": 277,
+  "version_name": "0.0.77",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.76 — Intención por enemigo: espada + daño, reloj de arena o escudo, encima de los ailments."
+  "notes": "CardStrike 0.0.77 — Balance mixto de HP, daño y mejoras de cartas. Iconos de ailments y reliquias más legibles en el HUD. Ceguera, debilidad y aturdimiento ahora hacen lo que prometen."
 }
