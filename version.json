@@ -1,6 +1,6 @@
 {
-  "version_code": 278,
-  "version_name": "0.0.78",
+  "version_code": 279,
+  "version_name": "0.0.79",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.78 — sprites de héroes, 116 cartas, HUD/UI tipo StS, pantalla de entrada, balance e iconos."
+  "notes": "CardStrike 0.0.79 — combate rediseñado: el campo queda separado de la baraja con un rail de piedra y una bandeja de madera. Mazo y descarte son pilas de cartas con grosor y contador; Fin de turno es una placa de metal. Los ailments dejan de ser iconos infantiles y pasan a gemas oscuras tipo Slay the Spire."
 }
