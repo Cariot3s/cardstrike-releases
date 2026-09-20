@@ -1,6 +1,6 @@
 {
-  "version_code": 282,
-  "version_name": "0.0.82",
+  "version_code": 283,
+  "version_name": "0.0.83",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.82 — mazos por clase (Alquimista 401–429, Vikingo 101–129, Tahúr 201–229, Mago 301–329). Los ailments van encima del sprite, no encima de la cabeza. Idle de mago y vikingo limpio. HUD de combate completo. Cambiar de héroe en el hub empieza una run nueva; Continuar solo retoma el mismo héroe."
+  "notes": "CardStrike 0.0.83 — elegir Alquimista ata el mazo 401–429 (frascos), no cartas de Vikingo. Los iconos de ailment se miden sobre la caja opaca del sprite y van encima, nunca en el pelo. Nueva expedición tira la run vieja."
 }
