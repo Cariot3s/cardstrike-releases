@@ -2,5 +2,5 @@
   "version_code": 293,
   "version_name": "0.0.93",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.93 — mano en abanico legible (solape 30–40%, toque = cara visual, carta alzada) y SFX por efecto (hacha, fuego, veneno, metal, papel, UI; colas 80–200ms; mute). Incluye oficios 0.0.92 de las 116 cartas. No pisa 0.0.91/0.0.92."
+  "notes": "CardStrike 0.0.93 — mano en abanico legible (solape 30–40%, toque = cara visual, carta alzada y vecinas apartan) y SFX por efecto (hacha, fuego, veneno, metal, papel, UI; colas 80–200ms; mute en Ajustes). Incluye oficios 0.0.92 de las 116 cartas. No pisa 0.0.91."
 }
