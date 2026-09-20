@@ -1,6 +1,6 @@
 {
-  "version_code": 285,
-  "version_name": "0.0.85",
+  "version_code": 286,
+  "version_name": "0.0.86",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.85 — mazos por clase + reliquias STS + sin barra inferior."
+  "notes": "CardStrike 0.0.86 — identidades por clase: Vikingo Hachazo 7 plano, Mago Chispa 5+quema, Alquimista Frasco 5+veneno, Tahúr Carta Lanzada 4+sangrado. Curva enemiga acto 1 más baja."
 }
