@@ -2,5 +2,5 @@
   "version_code": 289,
   "version_name": "0.0.89",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.89 — modo desarrollador (debug o 5 toques en la versión de Ajustes) desbloquea héroes/cartas/reliquias/runas. Lanzamiento oficial empieza solo con Vikingo. La versión ya no está en combate: vive en Ajustes junto al chequeo OTA. Sonido más cálido (golpe, bloqueo, carta, veneno/quema, clic UI, sting de combate) y mute en Ajustes."
+  "notes": "CardStrike 0.0.89 — HUD de combate: vida y bloqueo encima de cada enemigo, ailments grandes, combo tope ×3, orbe de energía siempre en el muelle y Fin de turno más grande a la derecha. Solo el Vikingo empieza desbloqueado; Tahúr/Mago/Alquimista por hazañas o Mercado. Runas (3 huecos, pasivas) y códice de cartas/enemigos. Actos más cortos, recompensas de clase y reliquias de quemadura/veneno/sangrado."
 }
