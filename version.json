@@ -1,6 +1,6 @@
 {
-  "version_code": 290,
-  "version_name": "0.0.90",
+  "version_code": 291,
+  "version_name": "0.0.91",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.90 — unifica 0.0.89: modo desarrollador (5 toques en Ajustes, debug ON), versión solo en Ajustes (sin marca de agua en combate), SFX/mute, desbloqueos meta (Vikingo libre; Tahúr/Mago/Alquimista por hazañas o IAP), runas, códice, HUD de combate (intents, combo ×3, orbe de energía, HP+bloqueo enemigo)."
+  "notes": "CardStrike 0.0.91 — SFX más cálidos (golpe/escudo/carta/veneno/quema/UI/sting, mute en Ajustes), kits por oficio (Vikingo poke/smash/AOE/fuerza/bloqueo/exhaust/robo/stun/vulnerable; Tahúr/Mago/Alquimista distintos), mano en abanico STS, mercader/menú pergamino-oro, enemigos con extremidades restauradas + 12 basura/élites nuevas. No pisa 0.0.90."
 }
