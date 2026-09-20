@@ -1,6 +1,6 @@
 {
-  "version_code": 281,
-  "version_name": "0.0.81",
+  "version_code": 282,
+  "version_name": "0.0.82",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.81 — combate: héroe y enemigo a la misma altura; idle del vikingo recortado (sin hacha del frame siguiente); mazo, descarte y Fin de turno sin motas blancas ni placa cuadrada; FIN TURNO centrado en la placa; dígitos de maná más pequeños dentro del orbe."
+  "notes": "CardStrike 0.0.82 — mazos por clase (Alquimista 401–429, Vikingo 101–129, Tahúr 201–229, Mago 301–329). Los ailments van encima del sprite, no encima de la cabeza. Idle de mago y vikingo limpio. HUD de combate completo. Cambiar de héroe en el hub empieza una run nueva; Continuar solo retoma el mismo héroe."
 }
