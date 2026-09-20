@@ -1,6 +1,6 @@
 {
-  "version_code": 284,
-  "version_name": "0.0.84",
+  "version_code": 285,
+  "version_name": "0.0.85",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.84 — elegir Alquimista ata el mazo 401–429 (frascos), no cartas de Vikingo. Continuar solo si todos los ids coinciden con la clase. Los ailments se miden sobre la caja opaca del sprite e incluyen el 5 del badge; van encima del pelo, nunca encima. Nueva expedición tira la run vieja."
+  "notes": "CardStrike 0.0.85 — mazos por clase + reliquias STS + sin barra inferior."
 }
