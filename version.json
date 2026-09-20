@@ -1,6 +1,6 @@
 {
-  "version_code": 286,
-  "version_name": "0.0.86",
+  "version_code": 287,
+  "version_name": "0.0.87",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.86 — identidades por clase: Vikingo Hachazo 7 plano, Mago Chispa 5+quema, Alquimista Frasco 5+veneno, Tahúr Carta Lanzada 4+sangrado. Curva enemiga acto 1 más baja."
+  "notes": "CardStrike 0.0.87 — pack de jugabilidad: 1) Kits completos — Vikingo daño/bloqueo/fuerza (números altos, sin quema/veneno); Mago quema apilada + foco; Alquimista veneno + cura/limpia; Tahúr sangrado/debilidad/robar/descartar/apuesta (nunca quema ni veneno). Mejoras: Vikingo +2 daño o bloqueo; Mago +1 quema; Alquimista +1 veneno; Tahúr +1 sangrado o roba 1. 2) Pociones: 3 huecos, botín post-combate, 0 maná en batalla; fila HUD estilo STS (iconos transparentes, sin placas). 3) Patrones de enemigo: intenciones atacar/defender/potenciar/esperar; algunos telegrafían un golpe grande. HP/daño de 0.0.86. 4) Cromado de combate: orbe con dígito dentro, rail del dock y placa FIN DE TURNO con borde oro y esquinas transparentes. 5) Mapa/eventos: más bifurcaciones y eventos de clase (vikingo smash, mago quema, alquimista veneno, tahúr sangrado). 6) Audio: SFX de golpe, bloqueo y tick de veneno/quema; mute-safe si faltan archivos. 7) Un hueco de partida por héroe: cambiar de clase no borra la otra; CONTINUAR reanuda ESE héroe; abandonar solo limpia ese hueco."
 }
