@@ -1,6 +1,6 @@
 {
-  "version_code": 291,
-  "version_name": "0.0.91",
+  "version_code": 293,
+  "version_name": "0.0.93",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.91 — SFX más cálidos (golpe/escudo/carta/veneno/quema/UI/sting, mute en Ajustes), kits por oficio (Vikingo poke/smash/AOE/fuerza/bloqueo/exhaust/robo/stun/vulnerable; Tahúr/Mago/Alquimista distintos), mano en abanico STS, mercader/menú pergamino-oro, enemigos con extremidades restauradas + 12 basura/élites nuevas. No pisa 0.0.90."
+  "notes": "CardStrike 0.0.92 — las 116 cartas con oficio: cada carta un trabajo distinto (Mago/Alquimista/Tahúr ya no son +1 al mismo golpe; Vikingo 114/123 y 109/119/126/129 con jinete propio). No pisa 0.0.91."
 }
