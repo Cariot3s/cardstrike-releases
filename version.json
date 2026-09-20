@@ -1,6 +1,6 @@
 {
-  "version_code": 288,
-  "version_name": "0.0.88",
+  "version_code": 289,
+  "version_name": "0.0.89",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.88 — ailments más grandes, HP encima de cada enemigo. Gemas de estado ~34dp (glifo ~31dp, no un pip de 12dp) encima del sprite, sin tapar pelo/cabeza; si hay varias, en fila o apiladas. Cada enemigo muestra barra roja compacta + current/max entre los ailments y el arte. El jugador sigue con 61/75 arriba a la izquierda. Sin la tira TÚ/DIABLILLO."
+  "notes": "CardStrike 0.0.89 — modo desarrollador (debug o 5 toques en la versión de Ajustes) desbloquea héroes/cartas/reliquias/runas. Lanzamiento oficial empieza solo con Vikingo. La versión ya no está en combate: vive en Ajustes junto al chequeo OTA. Sonido más cálido (golpe, bloqueo, carta, veneno/quema, clic UI, sting de combate) y mute en Ajustes."
 }
