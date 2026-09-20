@@ -1,6 +1,6 @@
 {
-  "version_code": 289,
-  "version_name": "0.0.89",
+  "version_code": 290,
+  "version_name": "0.0.90",
   "apk_url": "https://github.com/Cariot3s/cardstrike-releases/releases/latest/download/cardstrike-release.apk",
-  "notes": "CardStrike 0.0.89 — HUD de combate: vida y bloqueo encima de cada enemigo, ailments grandes, combo tope ×3, orbe de energía siempre en el muelle y Fin de turno más grande a la derecha. Solo el Vikingo empieza desbloqueado; Tahúr/Mago/Alquimista por hazañas o Mercado. Runas (3 huecos, pasivas) y códice de cartas/enemigos. Actos más cortos, recompensas de clase y reliquias de quemadura/veneno/sangrado."
+  "notes": "CardStrike 0.0.90 — unifica 0.0.89: modo desarrollador (5 toques en Ajustes, debug ON), versión solo en Ajustes (sin marca de agua en combate), SFX/mute, desbloqueos meta (Vikingo libre; Tahúr/Mago/Alquimista por hazañas o IAP), runas, códice, HUD de combate (intents, combo ×3, orbe de energía, HP+bloqueo enemigo)."
 }
